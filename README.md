@@ -13,6 +13,9 @@
 ### 도움말
 
 - [Date](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- [setTimeout](https://developer.mozilla.org/ko/docs/Web/API/WindowTimers/setTimeout)
+- [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
+- [setTimeout vs setInterval](https://stackoverflow.com/questions/2696692/setinterval-vs-settimeout)
 - [이벤트 걸기](https://developer.mozilla.org/ko/docs/Web/API/EventTarget/addEventListener)
 - [이벤트 종류](https://developer.mozilla.org/ko/docs/Web/Reference/Events)
 - [Element 만들기](https://developer.mozilla.org/ko/docs/Web/API/Document/createElement)
